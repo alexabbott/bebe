@@ -1,0 +1,354 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "DsgnWrks Instagram Importer"
+msgstr ""
+
+#. Short description.
+msgid "Backup your instagram photos &amp; display your instagram archive. Supports importing to custom post-types &amp; adding custom taxonomies."
+msgstr ""
+
+#. Screenshot description.
+msgid "Welcome Panel."
+msgstr ""
+
+#. Screenshot description.
+msgid "After authenticating a user, this is the options panel you'll be presented with. If you select a custom post-type in the post-type selector, the options may change based on the post-type's supports, as well as any custom taxonomies."
+msgstr ""
+
+#. Found in description header.
+msgid "Sites That Have Used the Importer"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.stevenfurtick.com/\">stevenfurtick.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://instadre.com/\">instadre.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://photos.jkudish.com/\">photos.jkudish.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.aaronrutley.com/\">aaronrutley.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://photos.jtsternberg.com\">photos.jtsternberg.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://bakersfieldvintage.com\">bakersfieldvintage.com</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "In the spirit of WordPress and \"owning your data,\" this plugin will allow you to import and backup your instagram photos to your WordPress site. Includes robust options to allow you to control the imported posts formatting including built-in support for WordPress custom post-types, custom taxonomies, post-formats. You can control the content of the title and content of the imported posts using tags like <code>**insta-image**</code>, <code>**insta-text**</code>, and others, or use the new conditional tags <code>[if-insta-text]Photo Caption: **insta-text**[/if-insta-text]</code> and <code>[if-insta-location]Photo taken at: **insta-location**[/if-insta-location]</code>. Add an unlimited number of user accounts for backup and importing."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "As of version 1.2.0, you can now import and backup your instagram photos automatically! The plugin gives you the option to choose from the default WordPress cron schedules, but if you wish to add a custom interval, you may want to add the <a href=\"http://wordpress.org/extend/plugins/wp-crontrol/\">wp-crontrol plugin</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Version 1.2.6 introduced many new features for Instagram video. Your videos will now be imported to the WordPress media library, as well as the cover image. The new shortcode, <code>[dsgnwrks_instagram_embed src=\"INSTAGRAM_MEDIA_URL\"]</code>, displays your imported media as an Instagram embed (works great for video!) and finally, you can now use the tags, <code>**insta-embed-image**</code>, and <code>**insta-embed-video**</code>, in the Post Content template to save the <code>dsgnwrks_instagram_embed</code> shortcode to the post."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Plugin is built with developers in mind and has many filters to manipulate the imported posts."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "(send me your site if you want to be featured here)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Like this plugin? Checkout the <a href=\"http://j.ustin.co/QbMC8N\">DsgnWrks Twitter Importer</a>. Feel free to <a href=\"http://j.ustin.co/QbQKpw\">contribute to this plugin on github</a>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>dsgnwrks-instagram-importer</code> directory to the <code>/wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Visit the plugin settings page (<code>/wp-admin/tools.php?page=dsgnwrks-instagram-importer-settings</code>) to add your instagram usernames and adjust your import settings. If you want to see how how the output will look, I suggest you set the date filter to the last month or so. If you have a lot of instagram photos, you may want to import the photos in chunks (set the date further and further back between imports till you have them all) to avoid server overload or timeouts."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Import!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fix \"Call to undefined method DsgnWrksInstagram::get_options()\" error."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fix \"Call to undefined method DsgnWrksInstagram_Settings::debugsend()\" error."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Some checkboxes were not displaying the saved value."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Occasionally update the stored user's data from the instagram API to keep it fresh."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix fatal error when deactivating the plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When possible, import the full-resolution non-square instagram images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update importer image markup to support coming responsive images update to WordPress core."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When possible, import the full-resolution instagram images (1080x1080)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Made the auto-import feature off by default. Would sometimes be triggered on plugin activation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Saved the Instagram username to post-meta (<code>instagram_username</code>) along with the entire Instagram user object (<code>instagram_user</code>)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Tag filter is now more reliable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Adding a new user no longer resets the auto-import frequency setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: User settings would occasionally not save correctly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Conflict fix: Do not publicize imported posts via Jetpack."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Template tag for getting the instagram image, <code>dw_get_instagram_image</code>, and for displaying the image, <code>dw_instagram_image</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Shortcode for displaying instagram embed, <code>dsgnwrks_instagram_embed</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>**insta-embed-image**</code>, and <code>**insta-embed-video**</code> import content tags to add the embed shortcode. Using these tags will negate the <code>**insta-image**</code> tag."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Plugin option for selecting to remove #hashtags when saving posts' Title/Content/Excerpt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>dsgnwrks_instagram_import_types</code> filter - Modify to exclude images or video (or others?) from the import."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>dsgnwrks_instagram_post_excerpt</code> filter - Modifies the imported posts' excerpts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>dsgnwrks_instagram_post_title</code> filter - Modifies the imported posts' titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>dsgnwrks_instagram_post_content</code> filter - Modifies the imported posts' content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>dsgnwrks_instagram_{$tag}</code> filter - Allows granular modification of each content tag's replacement."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Better ajax importing of images/posts. Each imported post will show live feedback during the import process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Better styling for users with MP6 installed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Authenticating users with Emoji (or other special characters in their bios) would cause the plugin to break."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Post format selector didn't have correct class and so wasn't getting shown correctly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: POT translation file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Import now runs via AJAX, and imported post messages have improved styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Previously had no uninstall hook. Now deletes plugin option data (not imported posts) when uninstalling plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: <code>**insta-image-link**</code> now pulls in the full 612x612 image size."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: dsgnwrks_instagram_image_size filter for changing from 'full' to any registered image size."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: dsgnwrks_instagram_insta_image filter to allow manipulation of the <code>**insta-image**</code> html markup (add classes, etc)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Better SSL management"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Option to save Instagram hashtags as taxonomy terms (tags, categories, etc)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Filter on Settings page to allow other plugins/themes to add extra settings fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: More of the Instagram photo data is saved to post_meta. props <a href=\"https://github.com/csenf/DsgnWrks-Instagram-Importer-WordPress-Plugin/commit/5816ddade00b92fa0975fb47b49ca8467779e2a4\">csenf</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Better management and display of API connection errors. props <a href=\"https://github.com/csenf/DsgnWrks-Instagram-Importer-WordPress-Plugin/commit/6fec092cafc7d241c1b1d75e4a80b42d28eff2d5\">csenf</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Internationalization (i18n) translation support, and debugging infrastructure."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: It's finally here! Option to auto-import/backup your instagram shots."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Option to conditionally add \"insta-text\" &amp; \"insta-location.\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Default options when first adding a user, including the \"insta-location\" conditional in the post content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: When unchecking \"set as featured image,\" the posts would still add the featured image."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: When unchecking \"set as featured image\" the input would still display as checked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix infinite redirect when adding a new user"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update plugin instructions that state setting the image as featured is required for images to be backed-up. As of version 1.1, this is no longer a requirement."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Convert plugin to an OOP class and remove amazon S3 links from post content. Props to <a href=\"https://github.com/UltraNurd\">@UltraNurd</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes a bug with new user profile images not showing correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where imported instagram times could be set to the future"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Launch."
+msgstr ""
+
+#. Found in faq header.
+msgid "Plugin gives me an error! help?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible to set the default image display size in a post?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible to limit the length of the imported posts?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible to set the title of the imported posts to the date of the image?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I save my own post-meta fields for each post?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible to automatically center align the imported images?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I remove the text from the excerpt field?"
+msgstr ""
+
+#. Found in faq header.
+msgid "??"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Please install the <a href=\"http://wordpress.org/extend/plugins/dsgnwrks-instagram-importer-debug/\">DsgnWrks Instagram Importer Debug</a> plugin."
+msgstr ""
+
+#. Found in faq list item.
+msgid "If you're importing as the featured image and your theme supports featured images, that is the size that will be used. If you're instead importing the image to the post, there is a filter in the plugin for overriding the image size. If you wanted to instead use the \"medium\" image size created by WordPress, you would filter the image size like this:"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Yes, use this gist: <a href=\"https://gist.github.com/jtsternberg/6148635\">gist.github.com/jtsternberg/6148635</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Yes, use this gist: <a href=\"https://gist.github.com/jtsternberg/1b83e43348cfe4ec08a3\">gist.github.com/jtsternberg/1b83e43348cfe4ec08a3</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Yes, use this gist: <a href=\"https://gist.github.com/jtsternberg/f784e8d0e8c2da371702\">gist.github.com/jtsternberg/f784e8d0e8c2da371702</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Yes, use this gist: <a href=\"https://gist.github.com/jtsternberg/60e201662691ec9d4a8e\">gist.github.com/jtsternberg/60e201662691ec9d4a8e</a> (will only work if your theme supports the 'aligncenter' class)"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Yes, you can do so by adding this to your theme's functions.php file:"
+msgstr ""
+
+#. Found in faq list item.
+msgid "If you run into a problem or have a question, contact me (<a href=\"http://j.ustin.co/scbo43\">contact form</a> or <a href=\"http://j.ustin.co/wUfBD3\">@jtsternberg on twitter</a>). I'll add them here."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "That is a filter on the $size parameter passed to <code>wp_get_attachment_image_src()</code> so you can use any values you would use there. <code>wp_get_attachment_image_src()</code> on the codex: http://codex.wordpress.org/Function_Reference/wp_get_attachment_image_src"
+msgstr ""

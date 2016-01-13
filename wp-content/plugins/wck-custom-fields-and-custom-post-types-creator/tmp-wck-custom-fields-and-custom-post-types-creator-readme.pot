@@ -1,0 +1,488 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WCK - Custom Fields and Custom Post Types Creator"
+msgstr ""
+
+#. Short description.
+msgid "A must have tool for creating custom fields, custom post types and taxonomies, fast and without any programming knowledge."
+msgstr ""
+
+#. Screenshot description.
+msgid "Creating custom post types and taxonomies"
+msgstr ""
+
+#. Screenshot description.
+msgid "Creating custom fields and meta boxes"
+msgstr ""
+
+#. Screenshot description.
+msgid "Custom Fields Creator - list of Meta boxes"
+msgstr ""
+
+#. Screenshot description.
+msgid "Meta box with custom fields"
+msgstr ""
+
+#. Screenshot description.
+msgid "Defined custom fields"
+msgstr ""
+
+#. Screenshot description.
+msgid "Custom Fields Creator - Meta box arguments"
+msgstr ""
+
+#. Screenshot description.
+msgid "Post Type Creator UI"
+msgstr ""
+
+#. Screenshot description.
+msgid "Post Type Creator UI and listing"
+msgstr ""
+
+#. Screenshot description.
+msgid "Taxonomy Creator UI"
+msgstr ""
+
+#. Screenshot description.
+msgid "Taxonomy listing"
+msgstr ""
+
+#. Found in description header.
+msgid "Custom Fields"
+msgstr ""
+
+#. Found in description header.
+msgid "Custom Post Types and Taxonomy"
+msgstr ""
+
+#. Found in description header.
+msgid "WCK PRO"
+msgstr ""
+
+#. Found in description header.
+msgid "Website"
+msgstr ""
+
+#. Found in description header.
+msgid "Announcement Post and Video"
+msgstr ""
+
+#. Found in description header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in description header.
+msgid "Bug Submission and Forum Support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom fields types: wysiwyg editor, upload, text, textarea, select, checkbox, radio"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy to create custom fields for any post type."
+msgstr ""
+
+#. Found in description list item.
+msgid "Support for <strong>Repeater Fields</strong> and <strong>Repeater Groups</strong> of custom fields."
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag and Drop to sort the Repeater Fields."
+msgstr ""
+
+#. Found in description list item.
+msgid "Support for all input custom fields: text, textarea, select, checkbox, radio."
+msgstr ""
+
+#. Found in description list item.
+msgid "Image / File upload supported via the WordPress Media Uploader."
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to target only certain page-templates, target certain custom post types and even unique ID's."
+msgstr ""
+
+#. Found in description list item.
+msgid "All data handling is done with Ajax"
+msgstr ""
+
+#. Found in description list item.
+msgid "Data is saved as postmeta"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create and edit Custom Post Types from the Admin UI"
+msgstr ""
+
+#. Found in description list item.
+msgid "Advanced Labeling Options"
+msgstr ""
+
+#. Found in description list item.
+msgid "Attach built in or custom taxonomies to post types"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create and edit Custom Taxonomy from the Admin UI"
+msgstr ""
+
+#. Found in description list item.
+msgid "Attach the taxonomy to built in or custom post types"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Swift Templates</strong> - Build your front-end templates directly from the WordPress admin UI, without writing any PHP code. Easily display registered custom post types, custom fields and taxonomies in your current theme."
+msgstr ""
+
+#. Found in description list item.
+msgid "Front-end Posting - form builder for content creation and editing"
+msgstr ""
+
+#. Found in description list item.
+msgid "Options Page Creator - create option pages for your theme or your plugin"
+msgstr ""
+
+#. Found in description list item.
+msgid "More field types: Date-picker, Country Select, User Select, CPT Select"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>WordPress Creation Kit</strong> consists of three tools that can help you create and maintain custom post types, custom taxonomies and most importantly, custom fields and metaboxes for your posts, pages or CPT's."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>WCK Custom Fields Creator</strong> offers an UI for setting up custom meta boxes with custom fields for your posts, pages or custom post types. Uses standard custom fields to store data."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>WCK Custom Post Type Creator</strong> facilitates creating custom post types by providing an UI for most of the arguments of register_post_type() function."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>WCK Taxonomy Creator</strong> allows you to easily create and edit custom taxonomies for WordPress without any programming knowledge. It provides an UI for most of the arguments of register_taxonomy() function."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[youtube http://www.youtube.com/watch?v=_ueYKlP_i7w]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <a href=\"http://www.cozmoslabs.com/wck-custom-fields-custom-post-types-plugin/\">WCK PRO version</a> offers:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Premium Email Support for your project"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://www.cozmoslabs.com/wck-custom-fields-custom-post-types-plugin/\">See complete list of PRO features</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "http://www.cozmoslabs.com/wck-custom-fields-custom-post-types-plugin/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "http://www.cozmoslabs.com/3747-wordpress-creation-kit-a-sparkling-new-custom-field-taxonomy-and-post-type-creator/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "http://www.cozmoslabs.com/docs/wordpress-creation-kit-documentation/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "http://www.cozmoslabs.com/forums/forum/wordpresscreationkit/"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the wordpress-creation-kit folder to the '/wp-content/plugins/' directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then navigate to WCK =&gt; Custom Fields Creator tab and start creating your custom fields, or navigate to WCK =&gt; Post Type Creator tab and start creating your custom post types or navigate to WCK =&gt; Taxonomy Creator tab and start creating your taxonomies."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Select field can now display lables when outputting values"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor security improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We no longer get .js errors when a Select field has no options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added global filter for a form element output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed typo in Meta Box Creator"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We now run the Custom Post Type and Custom Taxonomy register function sooner on the init hook"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Aligned \"Help\" wit \"WCK\" in contextual help red button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some issues with translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed major issue that prevented publishing new metaboxes (CFC)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a footer message asking users to leave a review if they enjoyed WCK"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the way Single Forms are displayed and saved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'slug' parameter to API and we use it so we can translate labels"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter for taxonomy term name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for search in media library for the upload field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add support for the link in the listed upload fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add support for link on image/icon that points to attachement page in backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the order of the CKEDITOR.config.allowedContent = true to be above the call to initialized the textarea"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now metaboxes or pages don't appear for users that shouldn't"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wysiwyg editor fields no longer strips html tags"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changes to WCK deactivate function so it doesn't throw notices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filters which we can use to modify the text on metabox buttons in the backend (ex. Add Entry)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that when we had unserialized fields enabled and we deleted some items in the metabox they still remained in the database"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some PHP Warnings and Notices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now we can add the same metabox from CFC on multiple ids"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter for the arguments passed to the register_taonomy() funtion when creating a Custom Taxonomy. ( \"wck_ctc_register_taxonomy_args\" )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that was executing  shortcodes inside escaped shortcodes [[shortcode]]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed problem in CPTC that was setting the 'publicly_queryable' argument as true"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter for the arguments passed to the register_post_type() funtion when creating a Custom Post Type. ( \"wck_cptc_register_post_type_args\" )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the missing datepicker css 404 error. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed notices  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed \"Attach upload to post\" option for the upload field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced wysiwyg editor from tinymce to ckeditor to fix compatibility issues with WordPress 3.9"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upload Field now uses the media manager added in WP 3.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now we prevent \"Meta Field\" and \"Field Title\" to be named \"content\" or \"action\" in Custom Fields Creator to prevent conflicts with existing WordPress Fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in Custom Fields Creator that didn't display \"0\" values"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Spanish translation ( thanks to Andrew Kurtis for providing the translation files )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small compatibility tweaks for WordPress 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WCK menu now only appears for Administrator role only"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fixes and improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error from 1.0.4 require_once"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Custom Fields Api"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to enable/disable WCK tools(CFC, CPTC, FEP...) that you want/don't want to use "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Labels of required custom fields turn red when empty "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in Custom Taxonomy Creator support for show_admin_column argument that allows automatic creation of taxonomy columns on associated post-types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved visibility of WCK Help tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We no longer get js error when deregistering wysiwig init script"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed all notices and warnings from the code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when arguments contained UTF8 characters ( like hebrew, chirilic... )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Sortable field in Custom Fields Creator that wasn't clickable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Menu Position argument for Custom Post Type Creator."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter for default_value."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Template Select dropdown for Custom Fields Creator."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug in Custom Fields Creator that prevented Options field in the process of creating custom fields from appearing."
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I display my custom fields in the front end?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How to query by post type in the front-end?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I list the taxonomies in the front-end?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I query by taxonomy in the front-end?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Let's consider we have a meta box with the following arguments:\n"
+"- Meta name: books\n"
+"- Post Type: post\n"
+"And we also have two fields defined:\n"
+"- A text custom field with the Field Title: Book name\n"
+"- And another text custom field with the Field Title: Author name"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You will notice that slugs will automatically be created for the two text fields. For 'Book name' the slug will be 'book-name' and for 'Author name' the slug will be 'author-name'"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Let's see what the code for displaying the meta box values in single.php of your theme would be:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "So as you can see the Meta Name 'books' is used as the $key parameter of the function get_post_meta() and the slugs of the text fields are used as keys for the resulting array. Basically CFC stores the entries as custom fields in a multidimensional array. In our case the array would be:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This is true even for single entries."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can create new queries to display posts from a specific post type. This is done via the 'post_type' parameter to a WP_Query."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Example:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This simply loops through the latest 10 product posts and displays the title and content of them."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you want to have a custom list in your theme, then you can pass the taxonomy name into the the_terms() function in the Loop, like so:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "That displays the list of People attached to each post."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Creating a taxonomy generally automatically creates a special query variable using WP_Query class, which we can use to retrieve posts based on. For example, to pull a list of posts that have 'Bob' as a 'person' taxomony in them, we will use:"
+msgstr ""
